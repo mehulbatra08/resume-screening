@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Download NLTK data
-nltk.download('punkt')
+# nltk.download('punkt')
 nltk.download('stopwords')
 
 # Loading Models for Resume Screening
